@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Simple Phrases</string>
+    <string name="ohayou">Good Morning</string>
+    <string name="dewamata">See you later</string>
+    <string name="ki_o_tsukete">Take Care</string>
+    <string name="doomo">Thank you</string>
+    <string name="sayonara">Good Bye</string>
+    <string name="sumimasen">Excuse me</string>
+    <string name="oyasuminasai">Good Night</string>
+    <string name="genkidesuka">How are you?</string>
+</resources>
